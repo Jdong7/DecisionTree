@@ -1,0 +1,7 @@
+A,B,C,Label
+Yes,Yes,No,TRUE
+No,Yes,No,TRUE
+No,No,Yes,TRUE
+Yes,No,Yes,FALSE
+Yes,Yes,Yes,TRUE
+No,Yes,Yes,FALSE
